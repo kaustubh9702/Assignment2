@@ -4,10 +4,7 @@
  */
 package com.aed.backend;
 
-/**
- *bp, height heart rate, temps, respiration.
- * @author tarush
- */
+
 public class VitalSigns extends Patient{
     private int heartRate;
     private int height;

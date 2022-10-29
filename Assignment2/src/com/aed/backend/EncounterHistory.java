@@ -6,10 +6,7 @@ package com.aed.backend;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author tarush
- */
+
 public class EncounterHistory {
     private ArrayList<Encounter> encounterHistory = new ArrayList<>();
 

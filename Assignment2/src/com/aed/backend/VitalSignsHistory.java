@@ -6,10 +6,7 @@ package com.aed.backend;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author tarush
- */
+
 public class VitalSignsHistory {
     private ArrayList<VitalSigns> vitalSignsHistory = new ArrayList<>();
 

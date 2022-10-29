@@ -6,10 +6,7 @@ package com.aed.backend;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author tarush
- */
+
 public class System {
     private ArrayList<Person> patientDir = new ArrayList<>();
     private ArrayList<DoctorPerson> doctorDir = new ArrayList<>();

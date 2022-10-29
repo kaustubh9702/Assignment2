@@ -4,10 +4,7 @@
  */
 package com.aed.backend;
 
-/**
- *
- * @author tarush
- */
+
 public class Patient extends Person{
     private String uniqueID;
 

@@ -6,10 +6,7 @@ package com.aed.backend;
 
 import java.util.Date;
 
-/**
- *
- * @author tarush
- */
+
 public class Encounter extends VitalSigns{
     private String ailment;
     private String encounterDate;
